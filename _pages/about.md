@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rua Cruzeiro, 01. Jardim São Paulo - UFVJM Campus Mucuri</p>
-    <p>Teófilo Otoni - Minas Gerais</p>
+    <p style="font-size: 0.85rem;">Rua Cruzeiro, 01. Jardim São Paulo - UFVJM Campus Mucuri</p>
+  <p style="font-size: 0.85rem;">Teófilo Otoni - Minas Gerais</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
