@@ -1,0 +1,3 @@
+Mestrando em Administração Pública pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) e aluno do MBA em Data Science e Analytics pela Universidade de São Paulo (USP). É bacharel em Administração pela UFVJM e tecnólogo em Gestão Pública pelo Centro Universitário de Maringá (Unicesumar).
+
+Atualmente, atua como servidor público no município de Teófilo Otoni (MG), com interesse em temas relacionados à gestão pública, análise de dados e avaliação de desempenho no setor público. Suas áreas de interesse incluem eficiência governamental, orçamento público e aplicação de métodos quantitativos e técnicas de ciência de dados em políticas públicas.
